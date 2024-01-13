@@ -72,11 +72,11 @@ $(document).ready(function() {
     attrFancy();
 
     // other
-    $(".modal").on("show", function () {
-        $("body").addClass("modal-open");
-    }).on("hidden", function () {
-        $("body").removeClass("modal-open")
-    });
+    // $(".modal").on("show", function () {
+    //     $("body").addClass("modal-open");
+    // }).on("hidden", function () {
+    //     $("body").removeClass("modal-open")
+    // });
 
 });
 
